@@ -1,5 +1,5 @@
 # airline-system
-[PR]()
+[PR](https://github.com/alsatarysamah/airline-system/pull/1#partial-pull-merging)
 
 [GitHub](https://github.com/alsatarysamah/airline-system)
 
